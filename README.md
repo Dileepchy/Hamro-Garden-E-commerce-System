@@ -73,4 +73,4 @@ The repository is organized to separate different components of the system.
 
 ## About the Developers 👨‍💻👩‍💻
 
-This project was developed by **Akash Kumar Patel** and **Dileep Chaudhary** as part of their academic coursework at Tribhuvan University. 🎓
+This project was developed by **Dileep Chaudhary** and **Akash Kumar Patel**  as part of their academic coursework at Tribhuvan University. 🎓
