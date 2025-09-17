@@ -1,9 +1,3 @@
-Of course! Adding emojis can make a project's README file more visually appealing and easier to scan. Here's the updated **README.md** for the "Hamro Garden" e-commerce system with emojis to add a little flair.
-
----
-
-## README.md for Hamro Garden E-commerce System
-
 # Hamro Garden 🪴
 
 "Hamro Garden" is a dynamic, single-vendor e-commerce platform designed to help small businesses sell their products online. Developed as a final year project for a Bachelor of Science in Computer Science and Information Technology degree, this system provides a robust solution for managing products, customers, and orders. The platform is designed to be user-friendly for both administrators and customers, ensuring a seamless shopping experience. 🛒🛍️
